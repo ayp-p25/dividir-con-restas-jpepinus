@@ -21,4 +21,4 @@ else:
             break
 
 # Salidas
-print("El cociente es:", contador ,"y el Residuo es:", residuo
+print("El cociente es:", contador ,"y el Residuo es:", residuo)
